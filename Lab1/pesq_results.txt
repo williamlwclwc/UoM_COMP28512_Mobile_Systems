@@ -1,0 +1,2 @@
+REFERENCE	 DEGRADED	 PESQMOS	 MOSLQO	 SAMPLE_FREQ	 MODE
+NarrobandSpeech8k.wav	 speechNB3.wav	 2.031	 1.656	 8000	nb
