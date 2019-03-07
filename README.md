@@ -4,7 +4,7 @@
 
 ## Lab 2: Frequency Domain Processing
 
-## Lab 3:
+## Lab 3: Bit-error Control
 
 ## Lab 4:
 
