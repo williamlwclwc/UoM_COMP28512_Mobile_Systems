@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Wenchang Task4</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">Send</string>
+    <string name="cmd">Type Command</string>
+    <string name="register">Register</string>
+    <string name="response_from_server">Response from server:</string>
+    <string name="online_user">Online users:</string>
+    <string name="refresh">Refresh</string>
+    <string name="username">Username:</string>
+    <string name="select_user">Select a user:</string>
+    <string name="invite">invite</string>
+    <string name="end">end</string>
+    <string name="accept">accept</string>
+    <string name="decline">decline</string>
+    <string name="msg">Msg:</string>
+    <string name="msg_send">send msg</string>
+    <string name="kill">kill</string>
+    <string name="disconnect">disconnect</string>
+</resources>
