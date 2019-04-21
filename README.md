@@ -6,6 +6,6 @@
 
 ## Lab 3: Bit-error Control
 
-## Lab 4:
+## Lab 4: Messaging with Android Smartphones
 
-## Lab 5:
+## Lab 5: Communicating with Android Smartphones

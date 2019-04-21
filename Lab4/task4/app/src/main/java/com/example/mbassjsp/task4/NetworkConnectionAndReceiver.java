@@ -28,8 +28,8 @@ public class NetworkConnectionAndReceiver extends Thread{
     private Socket socket = null;
     private static final int SERVERPORT = 9999; // This is the port that we are connecting to
     // Channel simulator is 9998
-    private static final String SERVERIP = "10.0.2.2";  // This is the host's loopback address
-    //private static final String SERVERIP = "100.69.29.178";
+    // private static final String SERVERIP = "10.0.2.2";  // This is the host's loopback address
+    private static final String SERVERIP = "172.20.10.6";
     private static final String LOGTAG = "Network and receiver"; //  Identify logcat messages
 
     private boolean terminated = false; // When FALSE keep thread alive and polling
